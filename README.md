@@ -17,5 +17,12 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-## Authorship
-TBD
+## Cite
+```
+@article{vaishnav2022mareo,
+  title={MAREO: Memory-and Attention-based visual REasOning},
+  author={Vaishnav, Mohit and Serre, Thomas},
+  journal={arXiv preprint arXiv:2206.04928},
+  year={2022}
+}
+```
